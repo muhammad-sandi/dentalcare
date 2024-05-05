@@ -1,0 +1,131 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar button{
+    background: #162AFF;
+}
+
+#hero{
+    padding-top: 6%;
+}
+
+#hero h2{
+    font-size: 70px;
+}
+
+#hero img{
+    margin-top: -50px;
+    margin-left: 60px;
+    height: 550px;
+    width: 550px;
+}
+
+.circle {
+    margin-top: 20px;
+    margin-left: 125px;
+    width: 390px;
+    height: 390px;
+    border-radius: 50%;
+    background-image: linear-gradient(to right,#162AFF,#6291FF);
+    position: absolute;
+    z-index: -1;
+}
+
+.btn1{
+    background: #162AFF;
+}
+
+.main2{
+    background-image: linear-gradient(to right,#162AFF,#6291FF);
+    border-radius: 100px 100px 0 0;
+}
+
+.text-container{
+    display: flex;
+}
+
+.txt h3{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+#main3 img{
+    z-index: -1;
+    margin-bottom: -20px;
+}
+
+.main3-txt{
+    background-color: white;
+    position: absolute;
+    width: 226px;
+    height: 215px;
+    box-shadow: 1px 1px 10px rgb(175, 175, 175);
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 33px;
+    font-size: 12px;
+}
+
+#main4{
+    margin-top: 280px;
+}
+
+#main4 h6{
+    color: #6190FF;
+}
+
+#main4 h4{
+    color: #162AFF;
+}
+
+#main5 h6{
+    margin-top: 50px;
+    color: #6190FF;
+}
+
+.card{
+    box-shadow: 1px 1px 10px rgb(175, 175, 175);
+    text-align: center;
+    width: 300px;
+}
+
+.card2{
+    box-shadow: 1px 1px 10px rgb(175, 175, 175);
+    width: 300px;
+}
+
+#main6 h6{
+    margin-top: 50px;
+    color: #6190FF;
+}
+
+
+#main6 button{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+#main6 h5{
+    font-size: 17px;
+}
+
+#main6 p{
+    font-size: 14px;
+}
+
+  
+#footer{  
+    background-image: linear-gradient(to right,#162AFF,#6291FF);
+    padding-bottom: 40px;  
+    margin-top: 70px;
+}  
+  
+#footer p{  
+    font-size: 16px;  
+    font-weight: lighter;  
+}
+
+.buttons{
+    background: white;
+}
